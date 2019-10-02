@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#5bf9f8f8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorBackground">#efeaea</color>
+    <color name="colorPrimary">#b10cadb3</color>
+    <color name="colorPrimaryDark">#ec88bfb7</color>
+    <color name="colorSplash">#f9f9f9</color>
+    <color name="textSplash">#696868</color>
+    <color name="colorRipple">#c7c4c4</color>
+    <color name="clear1">#c5ffffff</color>
+    <color name="clear2">#59ffffff</color>
+    <color name="clear3">#edffffff</color>
+    <color name="info">#f3b562</color>
+</resources>
